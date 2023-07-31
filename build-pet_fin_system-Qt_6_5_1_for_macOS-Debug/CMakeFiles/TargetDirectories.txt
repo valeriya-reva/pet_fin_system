@@ -1,0 +1,9 @@
+/Volumes/Macintosh HD/EDUCATION/c++/pet_fin_system/build-pet_fin_system-Qt_6_5_1_for_macOS-Debug/CMakeFiles/pet_fin_system.dir
+/Volumes/Macintosh HD/EDUCATION/c++/pet_fin_system/build-pet_fin_system-Qt_6_5_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Volumes/Macintosh HD/EDUCATION/c++/pet_fin_system/build-pet_fin_system-Qt_6_5_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Volumes/Macintosh HD/EDUCATION/c++/pet_fin_system/build-pet_fin_system-Qt_6_5_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Volumes/Macintosh HD/EDUCATION/c++/pet_fin_system/build-pet_fin_system-Qt_6_5_1_for_macOS-Debug/CMakeFiles/install.dir
+/Volumes/Macintosh HD/EDUCATION/c++/pet_fin_system/build-pet_fin_system-Qt_6_5_1_for_macOS-Debug/CMakeFiles/install/local.dir
+/Volumes/Macintosh HD/EDUCATION/c++/pet_fin_system/build-pet_fin_system-Qt_6_5_1_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Volumes/Macintosh HD/EDUCATION/c++/pet_fin_system/build-pet_fin_system-Qt_6_5_1_for_macOS-Debug/CMakeFiles/pet_fin_system_autogen_timestamp_deps.dir
+/Volumes/Macintosh HD/EDUCATION/c++/pet_fin_system/build-pet_fin_system-Qt_6_5_1_for_macOS-Debug/CMakeFiles/pet_fin_system_autogen.dir
