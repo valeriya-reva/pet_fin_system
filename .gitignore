@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Folders
+/build-pet_fin_system-Qt_6_5_1_for_macOS-Debug
